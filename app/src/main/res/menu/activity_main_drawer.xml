@@ -7,19 +7,19 @@
         <item
             android:id="@+id/tiedot"
 
-            android:title="Yhteystiedot" />
+            android:title="User info" />
         <item
             android:id="@+id/tarkastele"
 
-            android:title="Tarkastele varauksia" />
+            android:title="Examine bookings" />
         <item
-            android:id="@+id/varaukset"
+            android:id="@+id/bookings"
 
-            android:title="Omat varaukset" />
+            android:title="Own bookings" />
         <item
-            android:id="@+id/varaa"
+            android:id="@+id/book"
 
-            android:title="Tee varaus" />
+            android:title="Make booking" />
     </group>
 
 </menu>
