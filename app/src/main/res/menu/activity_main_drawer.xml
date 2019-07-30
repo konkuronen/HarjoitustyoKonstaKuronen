@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/tiedot"
+
+            android:title="Yhteystiedot" />
+        <item
+            android:id="@+id/tarkastele"
+
+            android:title="Tarkastele varauksia" />
+        <item
+            android:id="@+id/varaukset"
+
+            android:title="Omat varaukset" />
+        <item
+            android:id="@+id/varaa"
+
+            android:title="Tee varaus" />
+    </group>
+
+</menu>
